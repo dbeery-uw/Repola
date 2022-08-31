@@ -6,5 +6,3 @@ print("test commit2")
 
 print("test")
 
-print("test")
-
